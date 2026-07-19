@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-17 19:34:53,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
+2026-07-19 19:23:29,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
 
 🌊港·澳·台,#genre#
 明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
@@ -62,8 +62,14 @@ CCTV-5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a9
 
 🪁动画频道,#genre#
 优漫卡通,https://www.freetv.top/migu/626064703.m3u8?migutoken=deac6c5275081b54ad412a195e499b7c0cb8f04446b6c80aaa9d3eb1063d620261c68202d59aea05060007b58a62d5d208f16379d861d6f1627c10c9dd894f0bf7e3ca97b04696255e193e871c$订阅源
-经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
-漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
+七龙珠,https://live.ottiptv.cc/huya/11601966$订阅源
+七龙珠,https://live.metshop.top/huya/11601966$订阅源
+海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
+中华小当家,https://live.ottiptv.cc/huya/11342413$订阅源
+中华小当家,https://live.metshop.top/huya/11342413$订阅源
+猫和老鼠,https://live.ottiptv.cc/huya/11352879$订阅源
+猫和老鼠,https://live.metshop.top/huya/11352879$订阅源
+蜡笔小新,https://live.ottiptv.cc/bilibili/30837590$订阅源
 
 🎵音乐频道,#genre#
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4$订阅源
